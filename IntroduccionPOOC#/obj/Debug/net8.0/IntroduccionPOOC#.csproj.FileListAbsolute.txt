@@ -1,0 +1,14 @@
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\bin\Debug\net8.0\IntroduccionPOOC#.exe
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\bin\Debug\net8.0\IntroduccionPOOC#.deps.json
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\bin\Debug\net8.0\IntroduccionPOOC#.runtimeconfig.json
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\bin\Debug\net8.0\IntroduccionPOOC#.dll
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\bin\Debug\net8.0\IntroduccionPOOC#.pdb
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.AssemblyInfoInputs.cache
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.AssemblyInfo.cs
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.csproj.CoreCompileInputs.cache
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.dll
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\refint\IntroduccionPOOC#.dll
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.pdb
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\IntroduccionPOOC#.genruntimeconfig.cache
+D:\Disco\Programacion_Aprendi_Yo\C#-ASP NET\Aprende Programación Backend en C# .NET\IntroduccionPOOC#\IntroduccionPOOC#\obj\Debug\net8.0\ref\IntroduccionPOOC#.dll

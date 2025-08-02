@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Disco\\Programacion_Aprendi_Yo\\C#-ASP NET\\Aprende Programaci\u00F3n Backend en C# .NET\\IntroduccionPOOC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7981C6B-FD1F-4C9C-A02F-269383E45085}|IntroduccionPOOC#\\IntroduccionPOOC#.csproj|d:\\disco\\programacion_aprendi_yo\\c#-asp net\\aprende programaci\u00F3n backend en c# .net\\introduccionpooc#\\introduccionpooc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7981C6B-FD1F-4C9C-A02F-269383E45085}|IntroduccionPOOC#\\IntroduccionPOOC#.csproj|solutionrelative:introduccionpooc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Disco\\Programacion_Aprendi_Yo\\C#-ASP NET\\Aprende Programaci\u00F3n Backend en C# .NET\\IntroduccionPOOC#\\IntroduccionPOOC#\\Program.cs",
+              "RelativeDocumentMoniker": "IntroduccionPOOC#\\Program.cs",
+              "ToolTip": "D:\\Disco\\Programacion_Aprendi_Yo\\C#-ASP NET\\Aprende Programaci\u00F3n Backend en C# .NET\\IntroduccionPOOC#\\IntroduccionPOOC#\\Program.cs",
+              "RelativeToolTip": "IntroduccionPOOC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:35:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
